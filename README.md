@@ -1,0 +1,1 @@
+# Puppet control repo
